@@ -4,11 +4,11 @@
 **Group 4**
 
 ## Team Members
-1. Vivek Murugulla
-2. Sejal Arora 
-3. Angie Lin
-4. Alyssa Luangxay
-5. Robert Anthony
+1. Vivek Murugulla [Vcm79503](https://github.com/vcm79503/Project1/edit/main/README.md)
+2. Sejal Arora [sejalarora714](https://github.com/sejalarora714/project-1/edit/main/README.md)
+3. Angie Lin [aangielin](https://github.com/aangielin/project-one/edit/main/README.md)
+4. Alyssa Luangxay [alyssaxlu](https://github.com/alyssaxlu/project1/blob/main/README.md)
+5. Robert Anthony [ra14858](https://github.com/robertanthony23/Project1/blob/main/README.md)
 
 ## Problem Description
 The goal of this project is to design and develop a relational database that models the operations of multiple bars in Athens, Georgia. At the center of the model is the Bar entity, representing each independent business within the city's bar industry. Each bar has an owner, employs staff, serves customers, and maintains an inventory of food and drinks sourced by various suppliers.
