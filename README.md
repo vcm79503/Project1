@@ -98,7 +98,7 @@ Query 8 provides insight into the success of various marketing campaigns employe
 QUERY 9 (complex): What is the most common Food/Drink pairing in orders?
 <img width="625" alt="Screenshot 2025-03-20 at 11 50 58 AM" src="https://github.com/user-attachments/assets/c5dcc46c-226c-4810-91b4-1f9736abcd51" />
 
-Query 9 allows managers to see what are the most frequently paired items from both food and drink menu options. Combination orders typically lead to a higher total order price, so it’s worthwhile for managers to research this information. This query lists the foodItem/drinkItem pair and the number of times that pair was ordered across all bars in our database. Finally, the results are displayed by order frequency in descending order
+Query 9 allows managers to see what are the most frequently paired items from both food and drink menu options. Combination orders typically lead to a higher total order price, so it’s worthwhile for managers to research this information. This query lists the foodItem/drinkItem pair and the number of times that pair was ordered across all bars in our database. Finally, the results are displayed by order frequency in descending order.
 
 QUERY 10 (complex): List suppliers, their contact info, and the number of instances where food item ingredients are low/out of stock
 <img width="626" alt="Screenshot 2025-03-20 at 11 51 41 AM" src="https://github.com/user-attachments/assets/eeccd696-347b-4ff5-9fe6-a2c1a5c8564f" />
